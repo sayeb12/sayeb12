@@ -3,7 +3,7 @@
 
 📧 sayebahmed1234@gmail.com  
 📞 +8801572971831  
-🔗 [LinkedIn](https://linkedin.com/in/sayeb12) | [Portfolio](sayeb.info) | [GitHub](https://github.com/sayeb12)  
+🔗 [LinkedIn](https://linkedin.com/in/sayeb12) | [Portfolio]([sayeb.info](https://sayeb.info/)) | [GitHub](https://github.com/sayeb12)  
 
 ---
 
