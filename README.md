@@ -1,9 +1,16 @@
-# MD Abu Ubaida Jubaer Sayeb  
-### Full Stack Developer | Computer Vision Enthusiast  
+<div align="center">
 
-📧 sayebahmed1234@gmail.com  
-📞 +8801572971831  
-🔗 [LinkedIn](https://linkedin.com/in/sayeb12) | [Portfolio]([sayeb.info](https://sayeb.info/)) | [GitHub](https://github.com/sayeb12)  
+# 👋 Hi, I'm MD Abu Ubaida Jubaer Sayeb
+
+### 🚀 **Full Stack Developer** | **🤖 Computer Vision Enthusiast** | **📱 Web Developer**
+
+[![Email](https://img.shields.io/badge/Email-sayebahmed1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayebahmed1234@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+8801572971831-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801572971831)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Abu%20Ubaida%20Jubaer%20Sayeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayeb12)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://sayeb12.github.io/My-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-sayeb12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayeb12)
+
+</div> 
 
 ---
 
