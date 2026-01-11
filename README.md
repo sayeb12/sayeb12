@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm MD Abu Ubaida Jubaer Sayeb
+# Hi, I'm MD Abu Ubaida Jubaer Sayeb
 
 ### 🚀 **Full Stack Developer** | **🤖 Computer Vision Enthusiast** | **📱 Web Developer**
 
